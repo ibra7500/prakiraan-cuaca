@@ -4,10 +4,10 @@ namespace App\Controllers;
 
 class Home extends BaseController{
 
-	public function about() {
+	// public function about() {
 
-		return view('aboutus');
-	}
+	// 	return view('aboutus');
+	// }
 
 	public function currentweather() {
 

@@ -37,9 +37,9 @@
             <li class="nav-item active">
               <a class="nav-link ml-3" href="<?= base_url('home/currentweather') ?>">Cuaca Sekarang </a>
             </li>
-            <li class="nav-item active">
+            <!-- <li class="nav-item active">
               <a class="nav-link ml-3" href="<?= base_url('home/about') ?>">Tentang Kami </a>
-            </li>
+            </li> -->
           </ul>
         </div>
       </nav>
